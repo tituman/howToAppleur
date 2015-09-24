@@ -1,0 +1,119 @@
+# How to Applicateur
+This is an unofficial guide for new (or old) colleagues of the Applications Engineering (officially "Customer Solutions") department and meant as a small help in starting on this business. It can be understood as a list of tips and tricks of the trade; short cuts in the KEBA jungle of paper and bureaucracy. 
+
+## Have you ever wanted to travel the globe and get paid for it?
+With this job you will not be able to do that, neither with the salary, nor with the time. This is not just fun, sun and margaritas, this is getting the customer satisfied. The nice part of this job is getting to "work" in a foreign culture, together with the foreign people, and thus knowing how it really is in that country, how the people live, what they eat, and not just what the tourists see. An added benefit is having some potentially free time on weekends and travelling around, which is not always the case. Occasionally, you will get an exceptional customer which will take you around to the main attractions. At least, most foods are paid for.
+
+## KEdit License
+
+## Stock availability for private use
+
+<div id="credit-card"></div>	
+## Corporate credit card 
+
+When on a business trip it is of utmost importance to have a credit card. If you do not yet have one you apply for the KEBA subsidized credit card. Ask the secretary for the application form. You will get two Visa credit cards. One is marked as "private" and one is marked as "corporate". Do not let yourself be fooled by the name! Both cards are paid by you. The only thing the marking is good for is for differentiating between travel expenses that will be reimbursed by KEBA (taxi fares, other transport, hotels), and private expenses (food, fun, and margaritas). The "subsidized" part of this credit card only means that you don't pay any account fees.
+
+You should apply for on-line account statement. For more details look at the accompanying docu (read the fine manual) of the credit card when it arrives. it is very useful to cross check the reimbursements with the actual expenses, since sometimes the exchange rates or other fees are higher than what you get reimbursed. 
+
+>	`[] tip: after you get reimbursed, cross check what you get with what was actually charged on your account statement`
+
+## Daily allowances, night money, travelling times
+According to the [Betriebsvereinbarung Dienstreiseregelung BV 3-2007](./_media/Dienstreiseregelung.pdf), There are 2 different ways of making money, the travelling time and the daily allowances. The travelling time is explained in detail, [rtfm](./_media/Dienstreiseregelung.pdf), the daily allowances depend on which country you are visiting and can be viewed on the [table of daily allowances per country](./_media/Tabelle.pdf), it is very noteworthy that this table has not been updated since 2001 (14 years at the time of writing). For the real hardcores, here is the [law: Vorschrift](./_media/Reisegebuehrenvorschrift.pdf).
+
+### Night money
+Seeing as the table is so old, and on the [Dienstreiseregelung](./_media/Dienstreiseregelung.pdf) is mentioned that if an adequate room for the night is not to be found for the money on the [table](./_media/Tabelle.pdf), you would normally ask the customer to book a hotel for you, you pay the bill (with your KEBA credit card), and then get reimbursed (see [credit card](#credit-card))
+
+
+## Internet, proxy and connectivity
+
+## ZA or UR on Friday
+
+## Booking (desired) flights
+We have our own travel agency at KEBA, Michi Oberwallner (mailto:om@keba.com) at the ground floor next to the reception is always nice to talk to, it pays to pay her a visit. She can advice on flight dates, help on crowded flights, suggest alternative routes, and even choose nice seats. Don't forget to to bring your Auftragsnummer or Kostenstelle and Miles and More number (see [MM](#miles))
+
+<div id="miles"></div>
+## Frequent traveller Miles and More
+bli
+
+### Mobile app, which number to use for online check-in
+
+## Ersatzruhe
+
+## Overtime and vacation from the booking terminal
+
+<!--
+my ~~striked~~ text
+### Levels
+#### WT 01.04.14
+
+-	`[x]` Feedback Schulung an zner								 
+		> @pnd:  bekommst du mit diesem doc.
+-	`[x]` Stäubli DE
+	- `[x]` Derzeit keine offenen Themen
+	- `[x]` Anrufen ob für Messe kommende Woche Punkte offen sind
+	- `[ ]` Sie sollen ein Video vom gesamt-Ablauf der Applikation machen		 
+		> @pnd:  Er hat mir nur zwei handy bilder geschickt...   
+		>> @pnd:  Er hat mir nur zwei handy bilder geschickt...  
+	- `[ ]` Next point1
+-	`[ ]` Next point3
+
+table:
+Level			| Topics
+---				| ---
+Easy			| Just points, I/Os, triggers
+Medium			| Cart operations: RefSys, Tool; Simple Palletizing 
+Simple 			| Palletizing Wizard
+Expert			| Path Operations: Ovl, Dyn
+Professional	| WSM: Guards, Areas
+
+link:
+[starep_000.tgz](./starep_000.tgz)
+
+self link:
+[link text](#xmlmask)
+<div id="xmlmask"><*/*div>
+
+pic:
+![](./Capture1.JPG) 
+
+Listings:
+<div class="listing"/>
+
+pic with caption in center:
+<center> ![](./_media/mask/images/warning.png) </center>
+<center>This is an image</center>
+
+pretty:
+<pre class="prettyprint lang-kairo linenums">
+// initializing 
+Tool(VacGripper1) // set gripper tool 
+Dyn(moveDynamic) // set dynamic values 
+</pre>
+
+quote:
+-	`[x]` Feedback Schulung an zner								 
+> @pnd:  bekommst du mit diesem doc.
+-	`[x]` Stäubli DE
+	- `[x]` Derzeit keine offenen Themen	 
+	>> @pnd:  Er hat mir nur zwei handy bilder geschickt...   
+
+
+math (requires inet):
+$$
+\mathbf{I}_n = \left.  \left( 
+    \vphantom{
+        \begin{array}{c}
+            1\\1\\1\\1\\1
+        \end{array}
+    } 
+    \smash{
+        \underbrace{ 
+            \begin{array}{ccccc} 
+                1&0&0&\cdots &0\\ 0&1&0&\cdots &0\\ 0&0&1&\cdots &0\\ \vdots&&&\ddots&\\ 0&0&0&\cdots &1 
+            \end{array} 
+        }
+        _{n\text{ columns}}
+    } 
+    \right)\right\} \,n\text{ rows} 
+$$
+-->
